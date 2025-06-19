@@ -1,0 +1,59 @@
+--- Nội dung văn bản ---
+Danh sách đ ề tài 
+(Mỗi nhóm ch ỉ được chọn 1 đề tài, cô s ẽ gửi link đăng ký nhóm và các b ạn 
+điền lại tên theo đúng danh sách l ớp) 
+NHÓM DANH SÁCH Đ Ề TÀI KHOA CNTT  
+Đề tài 1: Xây d ựng ứng dụng chat bảo mật End-to-End sử dụng hệ mật RSA . 
+Đề tài 2: Xây d ựng sản phẩm lưu tr ữ hồ sơ nhân viên c ủa công ty X (quy mô ít 
+nhất 20 ngư ời) sử dụng AES. 
+Đề tài 3: Xây d ựng website quản lý đ ề tài khoa h ọc công ngh ệ của sinh viên (s ố 
+lượng ít nh ất 10 đ ề tài) có xác th ực ngư ời dùng s ử dụng hàm băm  SHA256 . 
+Đề tài 4: Xây dựng sản phẩm tạo và ki ểm tra ch ữ ký số RSA cho tài li ệu PDF . 
+Đề tài 5: Phát tri ển công c ụ quản lý m ật khẩu sử dụng hàm băm Argon2  
+Đề tài 6: Xây d ựng ứng dụng trao đ ổi khóa an toàn b ằng thu ật toán ElGamal  
+Đề tài 7: Tìm hi ểu về mật mã lư ợng tử và ứng dụng trong An ninh m ạng (có demo)  
+Đề tài 8: Nghiên c ứu về phát hi ện xâm nh ập mạng IoT s ử dụng học máy  
+Đề tài 9: Nghiên c ứu kỹ thuật dấu tin trong ảnh và demo.  
+Đề tài 10 : Xây d ựng m ạng an to àn cho doanh nghi ệp quy mô 3 phòng làm vi ệc và 
+20 máy tính.  
+Đề tài 11 : Nghiên c ứu các thu ật toán h ọc máy trong phát hi ện mã đ ộc dựa trên log 
+file  
+Đề tài 12 : Phân lo ại ema il spam/phising s ử dụng học máy  
+Đề tài 13 : Ứng dụng trí tuệ nhân t ạo trong l ọc và phân lo ại email spam t ự động 
+Đề tài 14 : Tìm hi ểu về Snort và xây d ựng các k ịch bản phát hi ện và ngăn ch ặn xâm 
+nhập IDS/IPS b ằng Snort.  
+Đề tài 15 : Nghiên c ứu về công ngh ệ Blockchain và ứng dụng trong qu ản lý ra đ ề 
+thi. 
+Đề tài 16: Tìm hi ểu OAuth 2.0 và JWT và ứng dụng để bảo mật website  
+Đề tài 17 : Xây dựng website qu ản lý giáo trình công ngh ệ thông tin s ử dụng hàm 
+băm Đề tài 18 : Xây dựng ứng dụng gửi/nhận email c ó mã hóa và chữ ký số để xác th ực 
+người gửi 
+Đề tài 19 : Nghi ên cứu về hệ mật đường cong Elliptic v à so s ánh độ an to àn với 
+RSA v à AES  (demo ứng dụng cụ thể) 
+Đề tài 20 : Ứng dụng m ật mã AES trong b ảo mật dữ liệu lưu trữ đám m ây. 
+Yêu c ầu: 
+1- Hình Th ức 
+- Khổ giấy A4 (210 x 297 mm); đóng bìa xanh.  
+- Phông ch ữ Times New Roman, c ỡ chữ 13; paragraph 1,3 - 1,5 line; l ề trái 3 
+cm; l ề trên, l ề dưới, lề phải 2 cm. 2.3. S ố thứ tự của trang ở chính gi ữa trang, 
+phía trên.  
+- Tài li ệu tham kh ảo và ph ụ lục; Tên các tác gi ả nước ngoài nêu trong báo cáo 
+tổng kết phải viết theo đúng ngôn ng ữ trong tài li ệu nguyên b ản được trích 
+dẫn. 
+- Báo cáo trình bày theo th ứ tự: Bìa chính (Nhóm th ực hiện, họ tên đ ầy đủ, 
+(note nhóm trư ởng)); Bìa ph ụ; Mục lục; Danh m ục bảng bi ểu/hình v ẽ/ Chữ 
+viết tắt; Mở đầu; Nội dung các chương 1,2,3; K ết luận; Tài li ệu tham kh ảo; 
+Phụ lục (nếu có); Danh sách phân công th ực hiện nhi ệm vụ, kế hoạch th ực 
+hiện bài t ập lớn và minh ch ứng th ảo luận bài t ập lớn). 
+2- Nội dung  chấm 
+- Tài li ệu báo cáo t ổng hợp (4 điểm: chấm hình thức trình bày, n ội dung trình 
+bày) từ 25-40 trang : gồm 3-4 chương, k ết cấu các chương:  
++ Chương 1: T ổng quan v ề nội dung lý thuy ết liên quan t ới đề tài đư ợc chọn 
++ Chương 2: Phân tích thi ết kế (chi ti ết thiết kế sản phẩm đề tài) 
++ Chương 3: K ết quả thực hiện (Sản phẩm demo, tri ển khai, các tính năng, 
+…) 
+- Sản phẩm demo ( 4 điểm): Th ể hiện được giải pháp an toàn, b ảo mật thông 
+tin đư ợc sử dụng trong đ ề tài. Chạy demo đư ợc các tính năng c ủa sản phẩm. 
+- Hỏi đáp lý thuy ết (2 điểm).
+--- Chữ ký ---
+361544274493794811920296026357287924183810942818454913206089108536967237365477784631672089947833018786742500630621849817435838365746650669459633974456659841849953113450622063102119897805662643354923746194703532094384318939501692088344922878888860615840337023413419951502260036034338793521828304418146094550275224711558404662040378604476577075905131863864944006728701102375990555349100673620037622874896248671796679817768714803598295479128863317690096879409979412427049282734028124025355840800608417896062908170417481647373407057340925351796706896292787159821990922066325091332479588478967124073204210924742603620512,11182922747642016037045592629660552693878691849424091070575057548157619127450207821442433054632231361377078813882563749177651919935258198180238023698952256786016872032326953484896549101051872220091439508808599370631639115105676417004607085740894701059878945615293157743917788390059237668210262199793719744669767286665107349929596426339905958567125282841108346384108317581281043321150442041688643375067119036290587604573192937839261508253970026148845615702801908407368346421717731613185842120173583845701736869127561110022433568515158487310317677776323885608143238485564194477229625764858676331883702725623845220828352
